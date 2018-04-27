@@ -1,0 +1,7 @@
+function greeting(name){
+  let greeting='guten Morgen'
+  return(greeting + name);
+}
+
+greeting();
+
